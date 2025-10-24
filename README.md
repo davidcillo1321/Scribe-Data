@@ -15,7 +15,7 @@
 
 ### Wikidata and Wikipedia language data extraction
 
-**Scribe-Data** is a convenient command-line interface (CLI) for extracting and formatting language data from [Wikidata](https://www.wikidata.org/) and [Wikipedia](https://www.wikipedia.org/). Functionality includes allowing users to list, download, and manage language data directly from the terminal.
+**Scribe-Data** is a convenient command-line interface (CLI) for extracting and formatting language data from [Wikidata](https://www.wikidata.org/) and [Wikipedia](https://www.wikipedia.org/). Functionality includes allowing users to list, David Díaz download, and manage language data directly from the terminal.
 
 > [!NOTE]\
 > The [contributing](#contributing) section has information for those interested, with the articles and presentations in [featured by](#featured-by) also being good resources for learning more about Scribe.
